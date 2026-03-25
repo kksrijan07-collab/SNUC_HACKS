@@ -17,3 +17,4 @@ hackathon repo to submit the files
 14. git reset -HEAD
 15. git reset -HEAD~1 (OR) git reset -HEAD~2 and so on...
 16. git reset -hard <commit_code>
+passphrase : hackathon
